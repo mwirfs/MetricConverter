@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/MetricConverter.iml" filepath="/Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/MetricConverter.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/app/app.iml" filepath="/Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/app/app.iml" />
+      <module fileurl="file:///Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/metricconverter2/metricconverter2.iml" filepath="/Volumes/DATA/Users/mwirfs/AndroidStudioProjects/InitializeVariables/MetricConverter/metricconverter2/metricconverter2.iml" />
+    </modules>
+  </component>
+</project>
